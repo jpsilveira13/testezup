@@ -1,0 +1,134 @@
+body{
+    background-color: #512F52;
+}
+
+/* CSS LOGIN FORM */
+
+
+.vertical-offset-100{
+    padding-top:100px;
+}
+/* alteracoes css boostrap */
+.panel-default {
+    border-color: #704B74;
+}
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #704B74;
+    border-color: #704B74;
+}
+
+.panel-title{
+
+    color: #fff;
+}
+
+.close{
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-shadow: 0;
+    filter: alpha(opacity=20);
+    opacity: 1;
+    margin-top: -8px
+}
+
+.panel-heading{
+    padding: 15px 15px;
+}
+
+.panel-body{
+    background-color: #F2F2F2;
+}
+
+.btn-purple{
+    opacity: .8;
+    background-color: #704B74;
+    width: 133px;
+    display: block;
+    height: 43px;
+    margin-bottom: 12px;
+    color: #fff;
+}
+
+
+
+.btn-purple:hover{
+    opacity: 1;
+    color: #fff;
+}
+
+#loginForm .form-control{
+    padding: 22px 12px;
+    background-color: #F2F2F2;
+    border-right:0;
+    box-shadow:none;
+
+}
+
+#loginForm .form-control:focus,#loginForm .form-control:hover{
+
+    background-color: #fff;
+
+
+}
+#loginForm .panel-body {
+    padding: 20px;
+}
+
+
+#loginForm .input-group-addon{
+background-color: #F2F2F2;
+}
+
+
+.form-group{
+margin-bottom: 20px;
+}
+
+#loginForm .color-grey{
+color: #B7B5B8;
+}
+
+#loginForm .link-reset{
+
+    margin-left: 32px;
+    line-height: 41px;
+}
+
+#loginForm .link-reset:hover{
+    color: #704B74;
+}
+
+
+/* area lista telefonica */
+
+.jumbotron{
+    max-width: 450px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.table{
+    margin-top: 20px;
+}
+
+.form-control{
+    margin-bottom: 5px;
+}
+
+.selecionado{
+    background-color: yellow;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.fontWithe{
+    color: #fff;
+}
